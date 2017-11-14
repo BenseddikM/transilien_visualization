@@ -1,6 +1,7 @@
 # Visualization of Transilien's network delays
 
 --> DEMO : https://benseddikm.github.io/transilien_visualization/ 
+Credits to : https://github.com/leonardbinet for his enormous work in the same team on the project !
 
 ## Overview
 
